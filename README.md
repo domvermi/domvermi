@@ -1,4 +1,4 @@
-#Data & BI analyst with a background in economics and healthcare.
+## Data & BI analyst with a background in economics and healthcare.
 
 I work with SQL (MySQL), Power BI and Python and focus on turning data into clear and understandable insights.
 
